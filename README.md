@@ -1,6 +1,6 @@
 # HieroLM
 This is the PyTorch implementation for HieroLM proposed in the paper **HieroLM: Egyptian Hieroglyph Recovery with Next Word
-Prediction Language Model** submitted to ACM Multimedia Asia 2024.
+Prediction Language Model** submitted to NAACL 2025.
 
 
 #### To train the model, run the following command:
