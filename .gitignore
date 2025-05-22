@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# PyTorch model files
+*.pth
+*.pt
+*.bin
+
+# TensorBoard logs
+runs/
+
+# Editor-specific files
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Project-specific
+saved_models/*
+!saved_models/placeholder
