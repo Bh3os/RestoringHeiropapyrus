@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # HieroLM
 This is the PyTorch implementation for HieroLM proposed in the paper **HieroLM: Egyptian Hieroglyph Recovery with Next Word
 Prediction Language Model** published at *The 9th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (LaTeCH-CLfL 2025)* at *NAACL 2025*.
@@ -99,6 +98,4 @@ python main.py --cuda True --dataset [aes/ramses/mixed] --mode decode
 ```
 python main.py --cuda True --dataset [aes/ramses/mixed] --mode realtime
 ```
-=======
-# RestoringHeiropapyrus
->>>>>>> a00e5ef4de418a33b1ea0d11c6fbdad19bb8e12b
+
